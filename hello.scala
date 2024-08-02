@@ -1,0 +1,1 @@
+println("Scala is awesome!")
